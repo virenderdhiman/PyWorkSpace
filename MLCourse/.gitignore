@@ -1,0 +1,11 @@
+.DS_Store
+
+# Temp Word docs
+~$*
+
+*.pyc
+.ipynb_checkpoints/
+*.pkl
+
+# Panopto recording options
+Panopto/
